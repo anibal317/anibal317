@@ -1,4 +1,4 @@
-
+![Banner](https://media.licdn.com/dms/image/v2/C5116AQEHV9BKEEArzw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1519189478417?e=2147483647&v=beta&t=YLJ_1XE3jtvbkDWxB-ewqw9OVS3uhRZLb8pBOjeX_B8)
 # ¡Hola! 👋 Soy Jorge Sardón
 
 💻 **Ingeniero de Calidad (QE)** | 🌱 Explorando **Automatización Avanzada**
@@ -18,15 +18,3 @@
 ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=anibal317&show_icons=true&theme=radical)
 ![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=anibal317&layout=compact)
 
-## 🌟 Proyectos Destacados
-
-- [Suite de Pruebas Automatizadas](https://github.com/anibal317/suite-pruebas): Framework de pruebas automatizadas con Selenium y Python.
-- [API Testing Toolkit](https://github.com/anibal317/api-testing-toolkit): Herramienta para pruebas de APIs con Postman y Newman.
-- [Pipeline CI/CD](https://github.com/anibal317/pipeline-ci-cd): Configuración de pipelines para pruebas automatizadas con Jenkins.
-
-## 📫 ¿Cómo contactarme?
-
-🐦 [Twitter](https://twitter.com/anibal317)
-📧 tu-email@example.com
-
-![GIF de pruebas](https://media.giphy.com/media/3o7TKP9lnyMAkA4fQI/giphy.gif)
