@@ -1,58 +1,32 @@
-# 🌟 Hola, soy [Tu Nombre]
 
-### **Desarrollador Full Stack | Especializado en Python & JavaScript**
+# ¡Hola! 👋 Soy Jorge Sardón
 
-Apasionado por crear soluciones innovadoras y escalables, con experiencia en el desarrollo de aplicaciones web completas, desde el backend hasta el frontend.
-
----
+💻 **Ingeniero de Calidad (QE)** | 🌱 Explorando **Automatización Avanzada**
+📚 Apasionado por la calidad del software y las pruebas automatizadas
 
 ## 🛠 Habilidades y Tecnologías
 
-### **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### **Backend**
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### **Bases de Datos**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
----
-
-## 🔥 Proyectos Destacados
-
-| Proyecto                                                   | Descripción                              | Tecnologías                 |
-| ---------------------------------------------------------- | ---------------------------------------- | --------------------------- |
-| [E-commerce API](https://github.com/tuusuario/api-ecommerce) | API REST para un sistema de e-commerce   | Python, Django, PostgreSQL  |
-| [Clon de Twitter](https://github.com/tuusuario/twitter-clone) | Aplicación web con autenticación y feeds | React, Firebase, TailwindCSS |
-| [Gestor de Tareas](https://github.com/tuusuario/task-manager) | Aplicación CRUD para gestión de tareas   | Node.js, Express, MongoDB   |
-
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 📊 Estadísticas
 
-![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
-![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact)
+![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=anibal317&show_icons=true&theme=radical)
+![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=anibal317&layout=compact)
 
----
+## 🌟 Proyectos Destacados
 
-## 📫 Contacto
+- [Suite de Pruebas Automatizadas](https://github.com/anibal317/suite-pruebas): Framework de pruebas automatizadas con Selenium y Python.
+- [API Testing Toolkit](https://github.com/anibal317/api-testing-toolkit): Herramienta para pruebas de APIs con Postman y Newman.
+- [Pipeline CI/CD](https://github.com/anibal317/pipeline-ci-cd): Configuración de pipelines para pruebas automatizadas con Jenkins.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tuperfil)
-[![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@example.com)
+## 📫 ¿Cómo contactarme?
 
----
+🐦 [Twitter](https://twitter.com/anibal317)
+📧 tu-email@example.com
 
-![GIF de desarrollo](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+![GIF de pruebas](https://media.giphy.com/media/3o7TKP9lnyMAkA4fQI/giphy.gif)
